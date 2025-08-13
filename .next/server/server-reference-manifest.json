@@ -1,0 +1,50 @@
+{
+  "node": {
+    "7f3c425152b50edbfa8c3574e900338a5d0cacc657": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsamanyu%2FDownloads%2Fskin-ai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f3c425152b50edbfa8c3574e900338a5d0cacc657%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fb3de1a57abbfc6dcbf6a9d8651162b08d18f311d%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227fbc6e27516a1ffa871467699429eb219a739767d6%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "7fb3de1a57abbfc6dcbf6a9d8651162b08d18f311d": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsamanyu%2FDownloads%2Fskin-ai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f3c425152b50edbfa8c3574e900338a5d0cacc657%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fb3de1a57abbfc6dcbf6a9d8651162b08d18f311d%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227fbc6e27516a1ffa871467699429eb219a739767d6%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "7fbc6e27516a1ffa871467699429eb219a739767d6": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsamanyu%2FDownloads%2Fskin-ai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fkeyless-actions.js%22%2C%5B%7B%22id%22%3A%227f3c425152b50edbfa8c3574e900338a5d0cacc657%22%2C%22exportedName%22%3A%22createOrReadKeylessAction%22%7D%2C%7B%22id%22%3A%227fb3de1a57abbfc6dcbf6a9d8651162b08d18f311d%22%2C%22exportedName%22%3A%22deleteKeylessAction%22%7D%2C%7B%22id%22%3A%227fbc6e27516a1ffa871467699429eb219a739767d6%22%2C%22exportedName%22%3A%22syncKeylessConfigAction%22%7D%5D%5D%5D&__client_imported__=!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "rsc"
+      }
+    },
+    "7fafa6a79c961eeb6c85c611e5560f091b9d7a9985": {
+      "workers": {
+        "app/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fsamanyu%2FDownloads%2Fskin-ai%2Fnode_modules%2F%40clerk%2Fnextjs%2Fdist%2Fesm%2Fapp-router%2Fserver-actions.js%22%2C%5B%7B%22id%22%3A%227fafa6a79c961eeb6c85c611e5560f091b9d7a9985%22%2C%22exportedName%22%3A%22invalidateCacheAction%22%7D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "7diASJkUW1Or5rDVJJdjga2wl9+vl/95CCV2K1m4h2w="
+}
